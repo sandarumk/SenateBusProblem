@@ -1,3 +1,4 @@
+
 import java.util.Random;
 
 /* This class simulate the senate bus problem creating a random number of riders and random number of buses */

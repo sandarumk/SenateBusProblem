@@ -1,3 +1,4 @@
+
 import java.util.concurrent.Semaphore;
 
 /* Assumptions : Maximum riders the waiting area has is 50. But the bus halt can have more than 50 riders. 

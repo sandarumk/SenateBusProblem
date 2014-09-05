@@ -1,4 +1,5 @@
 
+
 public class Rider implements Runnable {
 	private SenateBusProblem senateBusProblemInstance;
 
